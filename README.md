@@ -1,1 +1,3 @@
-My first readme is updated!
+# alx-zero_day
+
+**set by** : `Solomon Belay`
